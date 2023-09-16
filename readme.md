@@ -10,6 +10,6 @@ API URL's
 1. Create a product // post // http://localhost:8000/products/create
 2. Get all products // get // http://localhost:8000/products
 3. Delete a product // delete // http://localhost:8000/products/productID
-4. Update a product // Put //http://localhost:8000/products/productID/update_quantity/
+4. Update a product // Put //http://localhost:8000/products/productID/update_quantity/?number=4
 
 here productID can be according to the original id of Product.
