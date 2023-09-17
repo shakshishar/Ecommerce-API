@@ -12,4 +12,4 @@ API URL's
 3. Delete a product // delete // http://localhost:8000/products/id
 4. Update a product // Put //http://localhost:8000/id/update_quantity/?number=4
 
-here productID can be according to the original id of Product.
+here id can be according to the original id of Product.
